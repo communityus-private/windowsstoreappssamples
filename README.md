@@ -5,7 +5,7 @@ The samples are compatible with Unity 5.3 or higher.
 * **Association Launch**
     * Shows how to launch your application via file type association or protocol. By using this technique you can launch other Windows Store or desktop applications from yours.
 * **Live Tiles**
-    * ToDo
+    * ToDos
 * **Multiple Pages**
     * Shows how to navigate between XAML pages, where one page contains Unity layout and the other one contains simple XAML elements.
 * **Native Plugins**

@@ -24,7 +24,7 @@ If it's useful for the community and helps a lot of people, then certainly - yes
 * The sample has to be small
 * Should be accompanied by the ReadMe.txt (explaining what does this sample do, how to run the sample)
 
-This is released under the [MIT/X11 license](LICENSE).
+# What license is Windows Store samples shipped under?
 
 This means that you pretty much can customize and embed it in any software under any license without any other constraints than preserving the copyright and license information while adding your own copyright and license information.
 

@@ -32,6 +32,8 @@ There are requirements:
 
 # What license is Windows Store samples shipped under?
 
+The Windows Store samples are released under an MIT/X11 license; see the LICENSE file.
+
 This means that you pretty much can customize and embed it in any software under any license without any other constraints than preserving the copyright and license information while adding your own copyright and license information.
 
 You can keep the source to yourself or share your customized version under the same MIT license or a compatible license.

@@ -23,8 +23,9 @@ Yes. If you've found a bug in the sample and want to fix it, make a pull request
 If it's useful for the community and helps a lot of people, then certainly - yes. 
 
 There are requirements:
-    * The sample has to be small
-    * Should be accompanied by the ReadMe.txt (explaining what does this sample do, how to run the sample)
+
+* The sample has to be small
+* Should be accompanied by the ReadMe.txt (explaining what does this sample do, how to run the sample)
 
 # What license is Windows Store samples shipped under?
 

@@ -20,7 +20,8 @@ Yes. If you've found a bug in the sample and want to fix it, make a pull request
 
 #Will you be taking pull request for new samples?
 
-If it's useful for the community and helps a lot of people, then certainly - yes. There are requirements:
+If it's useful for the community and helps a lot of people, then certainly - yes. 
+There are requirements:
 * The sample has to be small
 * Should be accompanied by the ReadMe.txt (explaining what does this sample do, how to run the sample)
 

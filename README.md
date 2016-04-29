@@ -24,10 +24,15 @@ If it's useful for the community and helps a lot of people, then certainly - yes
 
 There are requirements:
 
+* Configure your IDE for the Unity coding standard, look in the .editorconfig file for more information
 * The sample has to be small
+* Don't commit Visual Studio intermediate files which are created during the compilation process
+* Don't commit Unity's Library folder
 * Should be accompanied by the ReadMe.txt (explaining what does this sample do, how to run the sample)
 
 # What license is Windows Store samples shipped under?
+
+Windows Store samples are released under an MIT/X11 license; see the LICENSE file.
 
 This means that you pretty much can customize and embed it in any software under any license without any other constraints than preserving the copyright and license information while adding your own copyright and license information.
 
